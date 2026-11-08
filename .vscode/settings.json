@@ -1,0 +1,6 @@
+{
+  // "terminal.integrated.cwd": "${workspaceRoot}/realestate",
+  "python-envs.defaultEnvManager": "ms-python.python:system",
+  "black-formatter.args": ["--line-length=240"],
+  "python.pythonPath": "${workspaceRoot}/venv/scripts/python.exe"
+}
